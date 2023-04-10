@@ -1,0 +1,54 @@
+.fondo{
+    background-color: #4d4d4d;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+
+
+.section{
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    border-color: #3f2929;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    top: 100px;
+    left: 450px;
+}
+.letras{
+    color:#000000;
+    text-align: center;
+}
+.input1{
+    position: absolute;
+    width: 380px;
+    height: 41px;
+    left: 230px;
+    top: 200px;
+
+    background: #444040;
+    border-radius: 10px;
+}
+
+#usuarioname{
+    color:#000000;
+    position: absolute;
+    left:230px;
+    top:170px;
+}
+#botonInicio{
+    position: absolute;
+    width: 380px;
+    height: 41px;
+    left: 230px;
+    top: 300px;
+    text-align: center;
+    font-size: x-large;
+    color:#FFFFFF;
+    border-color: #2CA5DB;
+    background-color: #2CA5DB;
+    border-radius: 10px;
+}
